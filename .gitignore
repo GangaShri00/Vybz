@@ -1,0 +1,12 @@
+# Backend
+backend/venv/
+backend/__pycache__/
+backend/*.db
+backend/*.sqlite
+
+# Frontend
+frontend/vybz-app/node_modules/
+frontend/vybz-app/dist/
+
+# VS Code
+.vscode/
